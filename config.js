@@ -3,7 +3,7 @@ const CONFIG = {
     introDesc: `Bé bt bé hay suy nghĩ này nọ nhưng
     bé yêu anh nhìu lắm mong anh hỉu bé nhìu hơn 
     cố gắng cùng nhau hết dịch để gặp nhau ha
-    Bé iu anhh nhìu lắm hì ,
+    tui iu anhh nhìu lắm hì ,
     btnIntro: 'hihi',
     title: 'Vì đã lỡ iu Bảo nhìu 😙',
     desc: 'Mong sao cho ta mãi bên nhau tới già nhaa ',
